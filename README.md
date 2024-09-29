@@ -64,6 +64,15 @@ A Web Developer From VietNam
 
 <br>
 
+## Project
+
+- Penguin Book Corner project using ReactJs
+- Jalea - Japanese learning assistant, a website using HTML, CSS, JavaScript
+- W3 The Band frontend clone project using HTML, CSS, JavaScript
+- Spotify clone project using ReactJs, TailwindCSS
+
+<br>
+
 
 
 ## <img width="35"><b>⚡ Stats⚡ </b>
